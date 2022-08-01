@@ -137,7 +137,6 @@ h2, h3, h4 {
 
 /*Header Responsive*/
 
-@media screen and (min-width: 800px) {
     #menuBut {
         display: none;
     }
@@ -181,7 +180,7 @@ h2, h3, h4 {
     #desktopNav ul li a:hover{
         color: #e30615;
     }
-}
+
 /*Index Main*/
 
 #hero {
@@ -279,19 +278,10 @@ h2, h3, h4 {
 
 /*Index Responsive*/
 
-@media screen and (min-width: 500px) {
-    #hero {
-        background: url(../images/tablet_hero.jpg) center no-repeat;
-    }
-}
-
-@media screen and (min-width: 530px) {
     #hero {
         padding: 20px 70px;
     }
-}
 
-@media screen and (min-width: 641px) {
     #homeButCon {
         max-width: 960px;
         margin: 0 auto;
@@ -320,16 +310,12 @@ h2, h3, h4 {
         margin: 0;
         margin-top: 5px;
     }
-}
 
-@media screen and (min-width: 648px) {
     #hero h2 {
         padding: 0px 60px;
         font-size: 32px;
     }
-}
 
-@media screen and (min-width: 800px) {
     h2 {
         font-size: 35px;
     }
@@ -456,9 +442,7 @@ h2, h3, h4 {
     .heroNext {
         grid-column: 8/-1;
     }
-}
 
-@media screen and (min-width: 900px) {
     .titleAct h3 {
         padding: 5px 50px;
     }
@@ -471,7 +455,7 @@ h2, h3, h4 {
     .homeOverlayText h4 {
         font-size: 18px;
     }
-}
+
 
 /*Footer*/
 
@@ -500,7 +484,6 @@ h2, h3, h4 {
 
 /*Footer Responsive*/
 
-@media screen and (min-width: 800px) {
     #backTop {
         display: none;
     }
@@ -534,11 +517,8 @@ h2, h3, h4 {
     #desktopNavFoot ul li a:hover{
         color: #e30615ff;
     }
-}
 
-@media screen and (min-width: 900px) {
     #desktopNavFoot ul li a {
         font-size: 14px;
     }
-}
 
