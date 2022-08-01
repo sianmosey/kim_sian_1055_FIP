@@ -27,8 +27,8 @@ The main focus of redesign was to to allow users to obtain various information f
 ### Executing Program
 
 <ul>
-    <li>Open any of the HTML files in browser to view project</li>
-    <li>Open in code editor of choice to review code</li>
+    <li>Open the HTML file in browser to view project</li>
+    <li>Open in code editor of choice to review code
 </ul>
 
 ## Author
